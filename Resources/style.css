@@ -283,6 +283,7 @@ main {
     border: 1px solid #000;
     border-radius: 3px;
     transition: all 0.3s ease-in-out;
+    color: #000;
 }
 
 .main_shop-btn button:hover {
